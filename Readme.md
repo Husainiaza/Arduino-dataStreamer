@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=vOXFKxp91Bw
 
 https://forum.dronebotworkshop.com/esp32-esp8266/trying-to-link-esp32-to-excel-data-streamer-to-display-and-process-serial-monitor-data/ 
 
+more about data streamer
+https://support.microsoft.com/en-us/office/what-is-data-streamer-1d52ffce-261c-4d7b-8017-89e8ee2b806f#:~:text=Data%20Streamer%20is%20a%20two,to%20a%20Windows%2010%20PC. 
+
 
 
 
