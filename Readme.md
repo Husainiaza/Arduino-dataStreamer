@@ -17,6 +17,8 @@ Link
 
 https://www.youtube.com/watch?v=vOXFKxp91Bw 
 
+https://forum.dronebotworkshop.com/esp32-esp8266/trying-to-link-esp32-to-excel-data-streamer-to-display-and-process-serial-monitor-data/ 
+
 
 
 
