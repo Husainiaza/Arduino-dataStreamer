@@ -18,7 +18,7 @@ void loop() {
     // Reset serial interval timestamp
     serialPreviousTime = millis(); 
     
-  int dataVar = analogRead(35);
+  int dataVar = analogRead(0);
   Serial.print(dataVar);
   Serial.print(",");
   Serial.println();
