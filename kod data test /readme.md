@@ -1,6 +1,12 @@
 
+Hardware : Arduino 9-in-1 Multi Function Shield
+
+![SHIELD-MP-V1_d-512x512](https://github.com/Husainiaza/Arduino-dataStreamer/assets/148662620/812e22a9-405b-4130-8cff-60afaf3b573e)
+
+
+
 Kod test
-![photo_2023-11-06_01-31-25](https://github.com/Husainiaza/ESP32-datastreamer/assets/148662620/84d7e605-dbff-4478-8824-828e08d72319)
+
 
 
 tutorial from
